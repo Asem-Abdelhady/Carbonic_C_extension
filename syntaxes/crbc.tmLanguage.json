@@ -32,7 +32,7 @@
         },
         {
           "name": "keyword.other.crbc",
-          "match": "\\b(var|from|reverse)\\b"
+          "match": "\\b(in|var|from|reverse)\\b"
         },
         {
           "name": "storage.type.crbc",
