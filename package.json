@@ -10,16 +10,25 @@
     "Programming Languages"
   ],
   "contributes": {
-    "languages": [{
-      "id": "crbc",
-      "aliases": ["Carbonic_C", "crbc"],
-      "extensions": [".crbc"],
-      "configuration": "./language-configuration.json"
-    }],
-    "grammars": [{
-      "language": "crbc",
-      "scopeName": "",
-      "path": "./syntaxes/crbc.tmLanguage.json"
-    }]
+    "languages": [
+      {
+        "id": "crbc",
+        "aliases": [
+          "Carbonic_C",
+          "crbc"
+        ],
+        "extensions": [
+          ".crbc"
+        ],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "crbc",
+        "scopeName": "source.crbc",
+        "path": "./syntaxes/crbc.tmLanguage.json"
+      }
+    ]
   }
 }
