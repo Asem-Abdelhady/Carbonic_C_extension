@@ -3,7 +3,7 @@
   "displayName": "Carbonic_C",
   "description": "Text highlighter for .crbc extension",
   "repository": "https://github.com/Asem-Abdelhady/Carbonic_C_extension.git",
-  "icon": "icons/Carbonic_C.png",
+  "icon": "icons/Carbonic_C_white_bg.png",
   "publisher": "AsemAbdelhady",
   "version": "0.0.4",
   "engines": {
