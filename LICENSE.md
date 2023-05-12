@@ -1,0 +1,1 @@
+This extension is developed by the team who developed Carbonic_C toy language. All the rights to modify the extension or the language must follow the license in the main repository. Check here: https://github.com/IVIosab/carbonic-c

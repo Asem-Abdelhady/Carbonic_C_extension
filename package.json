@@ -5,7 +5,8 @@
   "repository": "https://github.com/Asem-Abdelhady/Carbonic_C_extension.git",
   "icon": "icons/Carbonic_C_white_bg.png",
   "publisher": "AsemAbdelhady",
-  "version": "0.0.4",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -26,7 +27,7 @@
         "configuration": "./language-configuration.json",
         "icon": {
           "light": "icons/Carbonic_C.png",
-          "dark": "icons/Inverted_Carbonic_C.png"
+          "dark": "icons/inverted_Carbonic_C.png"
         }
       }
     ],
